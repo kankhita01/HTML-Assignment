@@ -1,0 +1,31 @@
+.hello{
+    color:navy;
+    font-size: 30px;
+    border: 3px solid;
+    background-color:bisque;
+    text-decoration: ;
+    text-align: center;
+}
+.jar{
+    color: darkred;
+    font-size: 25px;
+    border: 3px solid;
+    background-color: bisque;
+    text-decoration: wavy;
+    text-align: center;
+}
+.manage{
+    color: olivedrab;
+    font-size: 25px;
+    border:  3px solid;
+    background-color: bisque;
+    text-align: center;
+
+}
+.level{
+    color: palevioletred;
+    font-size: 25px;
+    border: 3px solid;
+    background-color: bisque;
+    text-align: center;
+}
